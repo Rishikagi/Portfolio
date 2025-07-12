@@ -1,6 +1,6 @@
 import React from "react";
 import { IoArrowForwardSharp } from "react-icons/io5";
-import calc from "./assets/Calculator.png";
+import calc from "./assets/calculator.png";
 import taskManager from "./assets/task-manager.png";
 import todo from "./assets/todo.png";
 import techFest from "./assets/tech-fest.png";
