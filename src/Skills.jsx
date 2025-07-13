@@ -1,5 +1,6 @@
 import React from 'react'
 import system from './assets/system.jpg'
+import mongo from "./assets/mongo.png";
 
 const skills =[
   {
@@ -22,6 +23,10 @@ const skills =[
   {
     name: 'Node Js', 
     icon: 'https://cdn-icons-png.flaticon.com/512/919/919825.png'
+  },
+  {
+    name:"MongoDB",
+    icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSITHn_TgjDyhdWvePNw0mveDrTUr00GLfv_Q&s"
   }
     
     

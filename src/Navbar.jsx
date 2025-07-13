@@ -37,9 +37,14 @@ function Navbar() {
             </li>
           ))}
         </ul>
+        <Link  to="contact"
+        smooth={true}
+        duration={500}
+        offset={-70}>
         <div className='border-2 bg-lightBrown h-auto w-70 p-2 border-cyan bg-gradient-to-r from-cyan to-orange flex justify-center text-sm font-medium items-center rounded-2xl cursor-pointer hover:scale-110 transition-all duration-200 ease-in-out hover:shadow-cyanShadow'>
           Hire Me <GoArrowDownRight />
         </div>
+        </Link>
       </div>
 
       {/* Mobile Navbar Header */}
