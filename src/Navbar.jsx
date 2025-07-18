@@ -51,9 +51,13 @@ function Navbar() {
       <div className='w-full flex justify-between items-center md:hidden px-6 py-4 border-b border-lightBrown'>
         <div className='text-white font-body font-semibold text-2xl'>RV</div>
         <div className='flex items-center gap-4'>
+          <Link  to="contact"
+        smooth={true}
+        duration={500}
+        offset={-70}>
           <div className='text-white border border-cyan bg-gradient-to-r from-cyan to-orange text-sm font-medium px-3 py-1 rounded-2xl cursor-pointer hover:scale-110 transition duration-200 hover:shadow-cyanShadow'>
             Hire Me <GoArrowDownRight />
-          </div>
+          </div> </Link>
           <button onClick={toggleMenu} className='text-white border-2 border-lightBrown bg-black rounded-full h-10 w-10 flex items-center justify-center'>
             {isOpen ? <IoMdClose size={24} /> : <span className='text-xl'>&#x2630;</span>}
           </button>
