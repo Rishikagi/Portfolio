@@ -1,5 +1,5 @@
 import React from 'react'
-import profile from './assets/profile.jpg'
+import profile from './assets/profile.jpeg'
 import { PiHexagonThin } from "react-icons/pi";
 
 function HeroSection() {

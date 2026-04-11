@@ -11,6 +11,12 @@ function Projects() {
   const project = [
     {
       image: calc,
+      title: "Skill Nova",
+      description: "SkillNova is your AI career guide that doesn’t guess—it analyzes. Get precise career paths, smart resume building, and ATS optimization in one place.",
+      view:"https://ai-detector-frontend-qq9v.onrender.com/"
+    },
+    {
+      image: calc,
       title: "Calculator",
       description: "Simple functional calculator using (HTML,CSS,JS) ",
       view:"https://rishikagi.github.io/Calculator/"
