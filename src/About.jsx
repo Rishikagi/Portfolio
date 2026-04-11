@@ -11,7 +11,7 @@ function About() {
         <div className="w-full md:w-1/2 p-2 mr-3">
           <h1 className="text-cyan font-body text-4xl font-bold text-center md:text-left md:text-5xl my-6">About Me</h1>
           <p className="font-special text-white text-sm md:text-medium text-gray-300 text-justify leading-relaxed">
-            I am a passionate and enthusiastic web developer with a strong foundation in front-end technologies.
+            I am a passionate and enthusiastic web developer with a strong foundation in full stack technologies.
             Currently pursuing a Bachelor's degree in Computer Applications, I am dedicated to honing my skills
             in web development and software engineering. My journey in the tech world has equipped me with the
             ability to create dynamic and responsive web applications, and I am always eager to learn and adapt

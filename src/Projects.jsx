@@ -4,13 +4,14 @@ import calc from "./assets/calculator.png";
 import taskManager from "./assets/task-manager.png";
 import todo from "./assets/todo.png";
 import techFest from "./assets/tech-fest.png";
+import skill_nova from "./assets/skill_nova.png";
 
 
 
 function Projects() {
   const project = [
     {
-      image: calc,
+      image: skill_nova,
       title: "Skill Nova",
       description: "SkillNova is your AI career guide that doesn’t guess—it analyzes. Get precise career paths, smart resume building, and ATS optimization in one place.",
       view:"https://ai-detector-frontend-qq9v.onrender.com/"

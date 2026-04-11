@@ -7,7 +7,7 @@ function HeroSection() {
     <header className='flex flex-col md:flex-row justify-center items-center w-full overflow-hidden mt-11 md:mt-40 px-4 md:px-8'>
         <div className='flex flex-col md:flex-row justify-between items-center my-10  max-w-screen-xl mx-auto h-auto'>
             <div className='flex flex-col flex-wrap justify-center items-center sm:items-start w-full md:w-1/2 text-white md:items-start'>
-                <div className='uppercase font-semibold text-cyan gap-4 text-lg font-special tracking-wide md:text-2xl'>Front-End Developer</div>
+                <div className='uppercase font-semibold text-cyan gap-4 text-lg font-special tracking-wide md:text-2xl'>Full Stack Developer</div>
                <div className="py-6 w-fit whitespace-nowrap cursor-pointer transition-all ease-in duration-300 transform hover:scale-105 font-bold font-body text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 hover:from-green-400 hover:via-yellow-500 hover:to-red-500 uppercase text-4xl md:text-6xl tracking-wider md:tracking-widest">
   Rishika Verma
 </div>
